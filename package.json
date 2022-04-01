@@ -1,0 +1,15 @@
+{
+  "name": "for-lambda-upload-resize",
+  "version": "1.0.0",
+  "description": "Resize S3 Image while upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaeyeol",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1105.0",
+    "sharp": "^0.30.3"
+  }
+}
